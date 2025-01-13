@@ -1,11 +1,7 @@
 body {
   max-width: 92%;
   margin: 0 auto;
-  background: radial-gradient(
-    250px at 10.9% 48.6%,
-    rgb(194, 227, 255) 39.3%,
-    rgb(226, 196, 253) 72.5%
-  );
+  background: linear-gradient(109.6deg, rgb(223, 234, 247) 11.2%, rgb(244, 248, 252) 91.1%);
 }
 h1 {
   text-align: center;
