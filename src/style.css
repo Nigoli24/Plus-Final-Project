@@ -61,7 +61,7 @@ button {
 
 .currentImage {
   text-transform: capitalize;
-  font-size: 50px;
+  font-size: 15px;
   font-weight: bolder;
 
   margin-right: 50px;
