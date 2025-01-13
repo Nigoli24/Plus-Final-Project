@@ -1,7 +1,7 @@
 body {
   max-width: 92%;
   margin: 0 auto;
-  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  background: radial-gradient(circle at 10% 20%, rgb(254, 255, 165) 0%, rgb(255, 232, 182) 90%);
 }
 h1 {
   text-align: center;
